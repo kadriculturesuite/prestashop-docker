@@ -533,7 +533,7 @@ Header
 
 #header .header-navfullwidth {
     display: block;
-    background: #051829;
+    background: #48525e;
     float: left;
     width: 100%;
     clear: both;
@@ -591,7 +591,7 @@ Header
     font-weight: 500;
     padding: 17px 20px;
     letter-spacing: 0.5;
-    color: #fff;
+    color: #edd288;
     line-height: 20px;
     transition: all .3s ease-in 0s;
     -moz-transition: all .3s ease-in 0s;
@@ -4071,7 +4071,7 @@ body#checkout section.checkout-step.-complete:first-of-type .step-title {
 
 #header .top-menu a[data-depth="0"]:hover,
 #header a:hover {
-    color: #333333;
+    color: #dfb030;
 }
 
 #products .up .btn-secondary {
